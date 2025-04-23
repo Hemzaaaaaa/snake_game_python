@@ -32,7 +32,7 @@ pip install pygame
 
 ```bash
 git clone https://github.com/Hemzaaaaaa/snake_game_python.git
-cd snake-ai-game
+cd snake game
 ```
 
 ```bash
